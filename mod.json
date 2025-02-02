@@ -1,0 +1,12 @@
+{
+	"Metadata":
+	{
+		"Name": "Act 2 Clear Jingle",
+		"Author": "SammyGoesHowdy",
+		"Description": "This mod adds a separate Act Clear jingle that plays in Act 2 of each zone.",
+		"ModVersion": "1.0",
+		"GameVersion": "24.02.02.0",
+		"UniqueID": "Act2ClearJingle"
+		
+	}
+}
